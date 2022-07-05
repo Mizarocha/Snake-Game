@@ -4,4 +4,4 @@
 
  Criando apenas de forma simples o clássico jogo da cobrinha utilizando HTML, CSS e JavaScript. 
 
-![jogo (2)](https://user-images.githubusercontent.com/88461178/143438340-0c00ced6-e197-4a05-b6ac-1f6f53f7bd4b.PNG)
+![JOGO 1](https://user-images.githubusercontent.com/88461178/177407663-8ed9d8b8-ffb7-4728-b8d9-267a5b074950.JPG)
